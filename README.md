@@ -1,6 +1,5 @@
-# 📌 Portfolio Overview
 # Ankul Tiwari Portfolio
-# 👋 Hi, I'm a Copywriter | Content Writer
+# Copywriter | Content Writer
 
 I am a professional freelance content writer with experience across **Yoga & Lifestyle, Education, Fintech, Finance, Health, Digital Marketing, and Medical** niches.  
 I create high-quality, SEO-focused, reader-friendly content for brands, agencies, and businesses.
